@@ -1,0 +1,12 @@
+Installation Guide
+
+Place the file in any folder of  "Rig" where you want to run the command.
+コマンドを実行したいRigの、任意のフォルダに、ファイルを配置してください。
+
+Python3 recommends more than version3.5
+python3は、version3.5以上を推奨します
+
+No need to add libraries
+ライブラリの追加等は必要ありません
+
+EOF
